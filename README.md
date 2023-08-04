@@ -2,9 +2,9 @@
 This project is a responsive clone of Spotify's web application built using only HTML and CSS. It is designed to replicate the layout and visual appearance of the Spotify web player without using any pre-built CSS frameworks like Bootstrap.
 
 ## Project Preview
+![Capture](https://github.com/Mysterynisha/spotify-clone/assets/106901424/37364289-a5cc-49ff-8253-d5db6057c643)
+![capture1](https://github.com/Mysterynisha/spotify-clone/assets/106901424/c4c96f50-3bb8-488e-a403-f91a34b34fde)
 
-![image](https://github.com/voidsoul-host/spotify-clone/assets/120613863/9f58a17b-b205-42db-a09a-e13d8d127131)
-![image](https://github.com/voidsoul-host/spotify-clone/assets/120613863/fd6dc284-2469-4741-bc39-bdffbfca5b46)
 
 
 ## Features
@@ -24,7 +24,7 @@ This project is a responsive clone of Spotify's web application built using only
 To run the project locally, simply clone the repository and open the `index.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/voidsoul-host/spotify-clone.git
+git clone https://https://mysterynisha.github.io/spotify-clone/
 cd spotify-clone
 ```
 
